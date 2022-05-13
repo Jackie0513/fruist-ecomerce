@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="" />
+    <list default="true" id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="Se agregan estilos">
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-boton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-contenido.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-descripcion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-imagen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-titulo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,25 +27,38 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1vok1zZ3RXdcD7kEQZXjeJRWV1t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/menu" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jack/Documents/futas-css/fruist-ecomerce/assets/css/recetas",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/recetas" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\menu" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,20 +70,42 @@
       <option name="presentableId" value="Default" />
       <updated>1627235617210</updated>
       <workItem from="1627235623187" duration="12593000" />
+      <workItem from="1652461593506" duration="309000" />
+      <workItem from="1652461922110" duration="2187000" />
     </task>
+    <task id="LOCAL-00001" summary="Se agregan estilos">
+      <created>1652461650177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652461650177</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se agregan estilos">
+      <created>1652461773879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652461773879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="691" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627250707556">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="691" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627250707556" />
-    <state x="462" y="166" key="SettingsEditor" timestamp="1627247523289">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="462" y="166" key="SettingsEditor/-1366.325.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1627247523289" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se agregan estilos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregan estilos" />
   </component>
 </project>
