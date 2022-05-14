@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="Se agregan estilos">
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-boton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-contenido.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-descripcion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-imagen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta-titulo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/recetas/receta.css" afterDir="false" />
+    <list default="true" id="c5c86d15-4a7a-4f6b-9871-8c3c95a7060c" name="Default Changelist" comment="Se añade nueva seccion y estilos">
+      <change afterPath="$PROJECT_DIR$/assets/css/logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/personas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/personas/persona-funcion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/personas/persona-imagen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/personas/persona-nombre.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/pie-de-pagina.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/quienesSomos/quienesSomos-descripcion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/quienesSomos/quienesSomos-titulo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/quienesSomos/quienesSomos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/banner/banner-img.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/banner/banner-img.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/banner/banner-titulo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/banner/banner-titulo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/cabecera.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cabecera.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/recetas.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/recetas.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/recetas/receta.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/recetas/receta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sobre/sobre-descripcion.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sobre/sobre-descripcion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sobre/sobre-titulo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sobre/sobre-titulo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sobre/sobre.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sobre/sobre.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,22 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/jack/Documents/futas-css/fruist-ecomerce/assets/css/recetas",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jack/Documents/futas-css/fruist-ecomerce/assets/css/quienesSomos&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/quienesSomos" />
       <recent name="$PROJECT_DIR$/assets/css/recetas" />
       <recent name="C:\Repositorio\wlls\Alura\Cursos\Arquitectura CSS\repositorio\arquitectura-css-assets\assets\css\menu" />
     </key>
@@ -71,7 +82,8 @@
       <updated>1627235617210</updated>
       <workItem from="1627235623187" duration="12593000" />
       <workItem from="1652461593506" duration="309000" />
-      <workItem from="1652461922110" duration="2187000" />
+      <workItem from="1652461922110" duration="9546000" />
+      <workItem from="1652565722985" duration="2167000" />
     </task>
     <task id="LOCAL-00001" summary="Se agregan estilos">
       <created>1652461650177</created>
@@ -87,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652461773879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se añade nueva seccion y estilos">
+      <created>1652467212192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652467212192</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se agregan estilos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agregan estilos" />
+    <MESSAGE value="Se añade nueva seccion y estilos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añade nueva seccion y estilos" />
   </component>
 </project>
